@@ -8,7 +8,8 @@
     height: 5rem;
 }
 .imgmain{
-    background-image:url(/Integrador/ba1.jpg);
+    background-image:url("ba1.jpg");
+    
 }
 .buttoncolor{
     background-color: rgb(150, 201, 62);
